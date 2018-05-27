@@ -1,0 +1,21 @@
+/******** COLORS **********/
+/**************************/
+:root {
+   --color-bg-dark: #252525;
+   --color-orange: #FF6F31;
+   --color-black: #000000;
+   --color-secondary-orange: #885641;
+}
+
+
+
+/******* OTHERS ***********/
+/**************************/
+html, body {
+   height: 100vh;
+   background: var(--color-bg-dark);
+}
+.row {
+    margin-left: 0;
+    margin-right: 0;
+}

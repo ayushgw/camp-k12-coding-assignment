@@ -1,0 +1,27 @@
+@import '../app.styles.css';
+
+#main-wrapper {
+    position: absolute;
+    justify-content: center;
+    left: 0;
+    right: 0;
+    top: 5rem;
+    bottom: 0;
+}
+#main-header {
+    border-bottom: 1px solid var(--color-secondary-orange);
+}
+#main-footer {
+    justify-content: center;
+}
+
+footer {
+    padding: 2rem 0;
+    background-color: var(--color-black);
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    border: 1px solid var(--color-orange);
+}
+
